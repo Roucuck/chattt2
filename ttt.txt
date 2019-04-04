@@ -1,0 +1,27 @@
+
+
+un plus fort raison  tout semble different coloré avec my sight 
+on peut parler ainsi degalite dopportunites entre les hommes 
+sur le plan social lhomme aveugle a reussi a  ameliorer son reseau de relation et sinteger dans son entourage 
+et finalement donc il faut pas donc oublier la contribution de laveugle et son role efficace dans le domaine educatif
+
+en effet ghassen souffre des plusieurs obstacles telles que la complexité et le changement rapide du rytme de la vie a ce ci s ajoute le manque des institutions educatifs dudiees pour le mal voyant 
+en outre ghassen souffre dun problem d integration dans la societe et de confience envers les autres  et sur tout la dependance de l autre et le besoin d aide pour realiser les moindres taches 
+
+decouvrir my sight de l entreprise handcapable solution de vision artificiel revolutionnaire  
+en fait, my sight est une lunette contenant un systeme d acquisition d images precise 
+un model trainé avec l'intelligence artificiel et des oreillettes de haute qualité regrouppé tout en une lunette agreable et magnifique
+
+detaillons le fonctionnement de notre systeme  
+tout d'abord le systeme capture l'image de l'article a lire et puis le transforme a l'aide d'un algoritme intelligent en un texte 
+ le texte généré est ensuite converti en un signale audio a l'aide d'un convertisseur texte to speech qui va etre ensuite diffusé a l'utilisateur par l oreuillette 
+concernant la connaissance des gents la premiere etape est de capturer l'image de la persone ainsi que son nom a la prochaine fois le systeme reconnait la personne automatiquement et informe l'utilisateur
+
+pour la detection des produits il suffit de montrer les produits préférés a my sight et en appuyant sur un bouton l'article est enrigistré pour l'identification futur instantanné 
+
+notre systeme permet aussi la detection de l'argent il suffit de pointer sur un billet et my sight annonce sa valeur  
+
+
+
+
+
